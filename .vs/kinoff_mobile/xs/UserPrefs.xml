@@ -1,6 +1,34 @@
 ﻿<Properties StartupConfiguration="{ED72E701-8A0B-492D-9841-A526CB39342E}|Default">
-  <MonoDevelop.Ide.ItemProperties.kinoff__mobile.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.kinoff__mobile.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.kinoff__mobile FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="kinoff_mobile/MainPage.xaml">
+    <Files>
+      <File FileName="kinoff_mobile/MainPage.xaml" Line="4" Column="48" />
+      <File FileName="kinoff_mobile/App.xaml" Line="1" Column="1" />
+      <File FileName="kinoff_mobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kinoff_mobile" expanded="True">
+            <Node name="kinoff_mobile" expanded="True">
+              <Node name="media" expanded="True">
+                <Node name="img" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.kinoff__mobile.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3a_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

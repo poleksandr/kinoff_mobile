@@ -978,20 +978,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/petryol17/.nuget/packages/": {}
+    "/Users/smidro17/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile.iOS/kinoff_mobile.iOS.csproj",
+      "projectUniqueName": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile.iOS/kinoff_mobile.iOS.csproj",
       "projectName": "kinoff_mobile.iOS",
-      "projectPath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile.iOS/kinoff_mobile.iOS.csproj",
-      "packagesPath": "/Users/petryol17/.nuget/packages/",
-      "outputPath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile.iOS/obj/",
+      "projectPath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile.iOS/kinoff_mobile.iOS.csproj",
+      "packagesPath": "/Users/smidro17/.nuget/packages/",
+      "outputPath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/petryol17/.config/NuGet/NuGet.Config"
+        "/Users/smidro17/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1002,8 +1002,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/petryol17/development/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj": {
-              "projectPath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj"
+            "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj": {
+              "projectPath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj"
             }
           }
         }

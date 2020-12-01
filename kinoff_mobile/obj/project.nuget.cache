@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Ppr+l1cIJK+qMwzEQnh4FvjMVcyTE6eH8cW9AT90shzjclJep3Lt7v3sGcoYLstoPlcydpwq0l+LZgXskT20BQ==",
+  "dgSpecHash": "iQ0hFo6Ye2IgDIlJLI1hoPZ64kyDuCoTrYtRCdtprIPz46IXiKvOvH8B+RYxJddP0U6IKITkIElpsFqWLpqb6g==",
   "success": true,
-  "projectFilePath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj",
+  "projectFilePath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj",
   "expectedPackageFiles": [
-    "/Users/petryol17/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/petryol17/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/petryol17/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/petryol17/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/petryol17/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "/Users/smidro17/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/smidro17/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/smidro17/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/smidro17/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/smidro17/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

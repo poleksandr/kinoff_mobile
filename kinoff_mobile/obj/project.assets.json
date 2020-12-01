@@ -628,19 +628,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/petryol17/.nuget/packages/": {}
+    "/Users/smidro17/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj",
+      "projectUniqueName": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj",
       "projectName": "kinoff_mobile",
-      "projectPath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj",
-      "packagesPath": "/Users/petryol17/.nuget/packages/",
-      "outputPath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile/obj/",
+      "projectPath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/kinoff_mobile.csproj",
+      "packagesPath": "/Users/smidro17/.nuget/packages/",
+      "outputPath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/petryol17/.config/NuGet/NuGet.Config"
+        "/Users/smidro17/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

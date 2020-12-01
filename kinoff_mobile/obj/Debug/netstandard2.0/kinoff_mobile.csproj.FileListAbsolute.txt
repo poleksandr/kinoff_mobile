@@ -1,0 +1,14 @@
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/bin/Debug/netstandard2.0/kinoff_mobile.deps.json
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/bin/Debug/netstandard2.0/kinoff_mobile.dll
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/bin/Debug/netstandard2.0/ref/kinoff_mobile.dll
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/bin/Debug/netstandard2.0/kinoff_mobile.pdb
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/kinoff_mobile.csprojAssemblyReference.cache
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/kinoff_mobile.AssemblyInfoInputs.cache
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/kinoff_mobile.AssemblyInfo.cs
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/kinoff_mobile.csproj.CoreCompileInputs.cache
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/kinoff_mobile.dll
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/ref/kinoff_mobile.dll
+/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile/obj/Debug/netstandard2.0/kinoff_mobile.pdb

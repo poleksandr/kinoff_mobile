@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PbKGJ1HlbXWWW4S8QTLY4SZQm36fVHlfdFnqHkiDFcrtvZritaFFZ2j8eeFyKPHSTGIOGILnbjCNUCIG2dTrAw==",
+  "dgSpecHash": "itvKU4Ul9Ozhl08bApK6QbUugYg0NWF9CH7jdsiT+dWH3kJtC25/fwgSrefu5Rwb5/mANVcMUmrC2mCPqjITlg==",
   "success": true,
-  "projectFilePath": "/Users/petryol17/development/kinoff_mobile/kinoff_mobile.iOS/kinoff_mobile.iOS.csproj",
+  "projectFilePath": "/Users/smidro17/Projects/kinoff_mobile/kinoff_mobile.iOS/kinoff_mobile.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/petryol17/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/petryol17/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "/Users/smidro17/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/smidro17/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }
