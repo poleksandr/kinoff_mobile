@@ -1,2 +1,2 @@
 # kinoff_mobile
-smid je gay
+smid je genius
