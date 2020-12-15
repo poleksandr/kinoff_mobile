@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="kinoff_mobile.MainPage">
-    <StackLayout BackgroundColor="#1c1c1c">
-        <Image Source="/kinoff_mobile/media/img/logo.png" HeightRequest="300" />
-        <Label Text="Kina" FontSize="Title" Padding="30,10,30,10" TextColor="White" />
-        <Label Text="Filmy" FontSize="Title" Padding="30,10,30,10" TextColor="White" />
-        <Label Text="Projekce" FontSize="Title" Padding="30,10,30,10" TextColor="White" />
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="kinoff_mobile.MainPage" BackgroundColor="#1c1c1c">
+    <StackLayout Margin="40,40,40,40">
+        <Image Source="/kinoff_mobile/media/img/logo.png" Margin="40,0,40,20"/>
+        <Frame OutlineColor="OrangeRed" BackgroundColor="Transparent" CornerRadius="25" Margin="0,0,0,20">
+            <Label Text="Kina" FontSize="Title" TextColor="White" HorizontalOptions="CenterAndExpand"/>
+        </Frame>
+        <Frame OutlineColor="OrangeRed" BackgroundColor="Transparent" CornerRadius="25" Margin="0,0,0,20">   
+            <Label Text="Filmy" FontSize="Title" TextColor="White" HorizontalOptions="CenterAndExpand"/>
+        </Frame>
+        <Frame OutlineColor="OrangeRed" BackgroundColor="Transparent" CornerRadius="25" Margin="0,0,0,20">
+            <Label Text="Projekce" FontSize="Title" TextColor="White" HorizontalOptions="CenterAndExpand"/>
+        </Frame>
     </StackLayout>
 </ContentPage>
